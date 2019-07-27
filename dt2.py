@@ -19,6 +19,7 @@ class DataRecorderManager()
         self.evnet_engine = event_engine
         self.recoder_engine = main_engine.get_engine(APP_NAME)
         //todo 需要读取配置并将没给symbol和tick的读取配置注册到事件中
+        //也就是原来在ui中做的那一部分
         self.init_setting()
         self.register_event()
         self.recoder_engine.put_event()

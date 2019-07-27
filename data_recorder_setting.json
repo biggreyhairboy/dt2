@@ -34,6 +34,11 @@
             "symbol": "rb2005",
             "exchange": "SHFE",
             "gateway_name": "CTP"
+        },
+        "hc2005.SHFE": {
+            "symbol": "hc2005",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
         }
     },
     "bar": {
