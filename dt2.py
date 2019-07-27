@@ -26,3 +26,5 @@ class DataRecorderManager()
     def init_setting()
         pass
 
+class ChildProcess():
+    

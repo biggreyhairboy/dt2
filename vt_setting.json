@@ -1,0 +1,23 @@
+{
+    "font.family": "Arial",
+    "font.size": 12,
+    "log.active": true,
+    "log.level": 50,
+    "log.console": true,
+    "log.file": true,
+    "email.server": "smtp.qq.com",
+    "email.port": 465,
+    "email.username": "",
+    "email.password": "",
+    "email.sender": "",
+    "email.receiver": "",
+    "rqdata.username": "18603009720",
+    "rqdata.password": "yjk19890412",
+    "database.driver": "postgresql",
+    "database.database": "vnpy-dev",
+    "database.host": "192.168.73.129",
+    "database.port": 5432,
+    "database.user": "patrick",
+    "database.password": "223223",
+    "database.authentication_source": "admin"
+}
