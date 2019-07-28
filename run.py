@@ -47,9 +47,8 @@ def run_child():
     main_engine.connect(ctp_setting, "CTP")
     main_engine.write_log("连接CTP接口")
 
-    sleep(5)
-
-    recorder_engine.run()
+    sleep(2)
+    
     main_engine.write_log("数据下载开始")
 
     while True:
